@@ -1,3 +1,6 @@
+# https://test-sitraka.netlify.app/
+# nisy fahatapan jiro
+# ilana tsiny fa bola tsy nety mintsy lay responsive,tsy bola azoko tsara lay izy de tsy nivoka mintsy
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
